@@ -1,0 +1,31 @@
+Practica 1
+
+1- ¿Cuales son las principales diferencias entre haskel y java?
+
+Aunque ambos lenguajes son estaticamente tipados tienen varias diferencias entre ellos, haskell es puramente funcional con inferencia de tipos, mientras que java es orientado a objetos e imperativo con declaraciones explicitas. Haskell ademas prioritiza la inmutabilidad y las funciones sin efectos secundarios, mientras que java permite algunas caracteristicas funcionales, con enfasis en un estado mutable y logica imperativa. En cuanto a hilos, haskell tiene abstracciones avanzadas y hilos livianos, mientras que java requiere una gestion manual de hilos. En terminos de adopcion java tiene un uso mas amplio por la industria mientras que haskell se ve mas limitado en este aspecto aunque es mas enfocado en los metodos formales y la correcion.
+
+-------------------------------------------------------------------------------
+
+2- ¿Por que Haskell no alcanzo una adopcion significativa en la industria del software?
+
+Haskell empezo como un lenguaje con mucha promesa pero años despues de su lanzamiento a fallado en obtener una adopcion significativa, esto se debe a diferentes factores, pricipalmente:
+
+1-Dificil de aprender: El sintaxis, paradigmas funcionales y conceptos como monadas e evaluacion perezosa generalmente son dificil de entender por los programadores.
+
+2-Ecosistema reducido: Haskell tiene menos bibliotecas, herramientas y frameworks a comparacion de otros lenguajes mas populares.
+
+3-Poca demanda: La mayoria de la industria no esta orientada al paradigma funcional
+
+4-Dificil de integrar: Haskell es mas dificil de integrar con otros lenguajes como c o java.
+
+-------------------------------------------------------------------------------
+
+3- ¿Cual seria una analogia que se podria realizar entre git y github?
+
+Una analogia, enfocada al software, que se podria realizar entre ambos es que git es como Word mientras que github es como Google docs, mientras que Word es algo local, que permite al usuario editar, cambiar y generar varias versiones de un documento, todo para el uso personal de ese usuario, Google docs esta enfocado a facilitar la colaboracion de varios usuarios, ya sea para editar un solo archivo en equipo o simplemente compartirlo con los demas; en si se podria pensar en git como algo local mientras que github tiene un enfoque comunitario.
+
+-------------------------------------------------------------------------------
+
+Referecias:
+1- Haskell vs Java. (n.d.). StackShare. Retrieved August 19, 2025, from https://stackshare.io/stackups/haskell-vs-java
+2-Dang, H. (2019, May 27). Why you’ll probably never use Haskell in production. Henrydangprg. https://henrydangprg.com/2019/05/27/why-youll-probably-never-use-haskell-in-production/
